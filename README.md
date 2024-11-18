@@ -19,6 +19,9 @@ Olá! Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaix
 - **HTML5**: Estruturação de páginas web.
 - **CSS3**: Estilização e design básico de interfaces.
 
+### Automação de Processos
+- PyAutoGui - Automação de processos repetitivos.
+
 ## 🎯 Objetivos
 
 - Aprimorar minhas habilidades em **Desenvolvimento Back-End** para construir APIs e sistemas complexos.
