@@ -2,8 +2,9 @@
 
 Olá! Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia e programação. Atualmente, estou me especializando no desenvolvimento backend utilizando **Python** e o framework **Django**. Também possuo conhecimentos em outras linguagens e tecnologias, o que me permite atuar em diferentes áreas do desenvolvimento.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSantosJD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantosJD&layout=compact&_count=8&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSantosJD&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantosJD&layout=compact&_count=8&show_icons=true&theme=midnight-purple)
+
 
 
 ## 💡 Habilidades
