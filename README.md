@@ -1,7 +1,8 @@
 # Sobre Mim 👨‍💻
 
- Profissional com foco em Back-End, Data Science, RPA e Análise de Dados, buscando desafios para aplicar e aprimorar conhecimentos técnicos. Experiência em 
- desenvolvimento de sistemas, automação de processos e análise de dados para
+ Profissional com foco em Desenvolvimento Back-End, buscando desafios para aplicar e aprimorar conhecimentos técnicos.
+ 
+ Experiência em desenvolvimento de sistemas Web, APIs RESTful, modelagem de banco de dados, Docker, AWS, testes unitários e análise de dados para
  otimização de operações. Habilidade em resolução de problemas, aprendizado contínuo e
  adaptação a diferentes ambientes. Proativo e colaborativo, com forte capacidade de
  trabalhar em equipe e desenvolver soluções eficientes e escaláveis.
@@ -32,6 +33,7 @@
 
  ### Infraestrutura e Observabilidade
  - Zabbix
+ - Granafa
 
 ### Frontend
 - **HTML5**: Estruturação de páginas web.
