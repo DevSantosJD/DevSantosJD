@@ -18,22 +18,12 @@
 - **Java**
 - **Spring Boot**
 - **Python**
-- **Django**
 - **Maven**
 - **Linux**
 
 ### Banco de Dados
 - **MySQL**
 - **PostgreSQL**
-- **MongoDB**
-
- ### Cloud
- - **AWS**
- - **Docker**
-
- ### Infraestrutura e Observabilidade
- - Zabbix
- - Granafa
 
 ### Frontend
 - **HTML5**: Estruturação de páginas web.
