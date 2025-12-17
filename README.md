@@ -1,38 +1,47 @@
-# Sobre Mim 👨‍💻
+# 👨‍💻 Sobre Mim
 
- Profissional com foco em Desenvolvimento Back-End, buscando desafios para aplicar e aprimorar conhecimentos técnicos.
- 
- Experiência em desenvolvimento de sistemas Web, APIs RESTful, modelagem de banco de dados, Docker, AWS, testes unitários e análise de dados para
- otimização de operações. Habilidade em resolução de problemas, aprendizado contínuo e
- adaptação a diferentes ambientes. Proativo e colaborativo, com forte capacidade de
- trabalhar em equipe e desenvolver soluções eficientes e escaláveis.
+Desenvolvedor de Software com foco em **Backend**, utilizando **Java e Spring Boot**.  
+Graduado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSantosJD&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantosJD&layout=compact&_count=8&show_icons=true&theme=midnight-purple)
+Possuo experiência no desenvolvimento de **APIs RESTful**, integração de sistemas, **modelagem de dados relacionais** e **consultas SQL**, além de **automação de processos com Python**.  
+Atuo também no desenvolvimento de **interfaces frontend básicas** com HTML, CSS e JavaScript, o que contribui para uma melhor compreensão da integração entre frontend e backend.
 
+Tenho perfil analítico, proativo e orientado à solução de problemas, com experiência prévia em **ambientes críticos**, forte atenção a processos, monitoramento e confiabilidade de sistemas.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSantosJD&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantosJD&layout=compact&theme=midnight-purple)
 
-## 💡 Habilidades
+---
+
+## 💡 Habilidades Técnicas
 
 ### Backend
 - **Java**
 - **Spring Boot**
+- **APIs RESTful**
 - **Python**
 - **Maven**
-- **Linux**
 - **Swagger**
 
 ### Banco de Dados
 - **MySQL**
 - **PostgreSQL**
 
-### Frontend
-- **HTML5**: Estruturação de páginas web.
-- **CSS3**: Estilização e design básico de interfaces.
-- **JavaScript**: Dinamismo em páginas Web 
+### Frontend (base)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+### Ferramentas e Ambiente
+- **Git / GitHub**
+- **Linux**
+- **Postman**
+
+---
 
 ## 🌐 Contato
 
-Sinta-se à vontade para me contatar para trocar ideias, discutir projetos ou colaborar em iniciativas!  
-- **Email**: [jardel.santos.23@outlook.com](mailto:jardel.santos.23@outlook.com)  
-- **LinkedIn**: [Jardel Santos](https://www.linkedin.com/in/jardel-santos-da-silva-194a03212/) 
+Fique à vontade para entrar em contato para trocar ideias, discutir projetos ou oportunidades em desenvolvimento de software:
+
+- 📧 **Email**: [jardel.santos.23@outlook.com](mailto:jardel.santos.23@outlook.com)  
+- 💼 **LinkedIn**: [Jardel Santos](https://www.linkedin.com/in/jardel-santos-da-silva-194a03212/)
