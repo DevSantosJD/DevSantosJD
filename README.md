@@ -20,6 +20,7 @@
 - **Python**
 - **Maven**
 - **Linux**
+- **Swagger**
 
 ### Banco de Dados
 - **MySQL**
@@ -28,6 +29,7 @@
 ### Frontend
 - **HTML5**: Estruturação de páginas web.
 - **CSS3**: Estilização e design básico de interfaces.
+- **JavaScript**: Dinamismo em páginas Web 
 
 ## 🌐 Contato
 
